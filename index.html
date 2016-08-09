@@ -1,44 +1,58 @@
----
-layout: default
----
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset='utf-8'>
+    <meta http-equiv="X-UA-Compatible" content="chrome=1">
 
-<section>
-  <div class="jumbotron">
+    <link rel="stylesheet" type="text/css" href="stylesheets/stylesheet.css" media="screen">
+    <link rel="stylesheet" type="text/css" href="stylesheets/github-dark.css" media="screen">
+    <link rel="stylesheet" type="text/css" href="stylesheets/print.css" media="print">
+
+    <title>Developerpeachy.GitHub.io by developerpeachy</title>
+  </head>
+
+  <body>
+
+    <header>
+      <div class="container">
+        <h1>Developerpeachy.GitHub.io</h1>
+        <h2>Experimental blog to show some code.</h2>
+
+        <section id="downloads">
+          <a href="https://github.com/developerpeachy" class="btn btn-github"><span class="icon"></span>View on GitHub</a>
+        </section>
+      </div>
+    </header>
+
     <div class="container">
-      {{site.description}}
+      <section id="main_content">
+        <h1>
+<a id="developerpeachygithubio" class="anchor" href="#developerpeachygithubio" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>developerpeachy.github.io</h1>
 
+<p>This is an experimental Jekyll page. #stilllearning :) </p>
+
+<h1>
+<a id="documentation" class="anchor" href="#documentation" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>documentation</h1>
+
+<p>Jekyll <a href="https://jekyllrb.com/">webpage</a>: 
+GitHub <a href="https://github.com/jekyll/jekyll-docs">source</a> for Jekyll Docs 
+Something i also found <a href="http://idratherbewriting.com/documentation-theme-jekyll/">helpful</a></p>
+
+<h1>
+<a id="things-i-thought-about-doing" class="anchor" href="#things-i-thought-about-doing" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>things i thought about doing</h1>
+
+<p>So i thought about adding something for a music player widget (maybe spotify or soundcloud), and some pictures and silly blog posts of some weird coding discoveries i've made/recreated (lol). </p>
+
+<p>Let me know what you think! </p>
+
+<p>email: <a href="mailto:rosalinda.prom@gmail.com">rosalinda.prom@gmail.com</a></p>
+
+<p>linkedin: <a href="http://www.linkedin.com/in/rosalinda-prom-15508a85?trk=nav_responsive_tab_profile_pic">Rosalinda Prom</a></p>
+
+<p>twitter: <a href="https://twitter.com/developerpeachy">@developerpeachy</a></p>
+      </section>
     </div>
 
-</div>
-</section>
-
-<section id="page-content">
-  <div class="container">
-    <div class="post-list">
-  {%  for post in site.posts %}
-  <div class="post-box">
-    <div class="post-title">
-    <a class="post-title" href="{{post.url | prepend:site.baseurl }}" > {{ post.title }}</a>
-    </div>
-    <div class="post-excerpt">
-      {{ post.content | strip_html | truncatewords:20}}
-    </div>
-    <div class="posted">
-      posted on
-      <span class="posted-on">
-
-        {{ post.date | date: "%A, %B %-d, %Y" }}
-      </span>
-      <span class="in">
-        in
-      </span>
-      <span class="categories-on">
-        {% for category in post.categories%}
-        {{category}} &nbsp;{% if forloop.last %}{% else %},{% endif %}
-        {% endfor %}
-      </span>
-    </div>
-  </div>
-  {% endfor %}
-  </div>
-</section>
+    
+  </body>
+</html>
