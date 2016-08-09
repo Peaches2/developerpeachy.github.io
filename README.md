@@ -10,7 +10,7 @@ Something i also found [helpful](http://idratherbewriting.com/documentation-them
 
 # things i thought about doing 
 
-So i thought about adding a [SoundCloud API](http://vicox.net/2014/08/02/soundblog/) for a music player widget, and some pictures and silly blog posts of some weird coding discoveries i've made/recreated (lol). 
+So i thought about adding something for a music player widget (maybe spotify or soundcloud), and some pictures and silly blog posts of some weird coding discoveries i've made/recreated (lol). 
 
 Let me know what you think! 
 
