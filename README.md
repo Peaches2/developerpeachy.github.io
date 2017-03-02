@@ -1,24 +1,24 @@
 # developerpeachy.github.io
 
-This is an experimental Jekyll page. #stilllearning :) 
+This is an experimental Jekyll page. (which didn't work out coz this is still the basic github page lol)
 
-# documentation 
+# documentation for dat jekyll stuffz:
 
 Jekyll [webpage](https://jekyllrb.com/): 
 GitHub [source](https://github.com/jekyll/jekyll-docs) for Jekyll Docs 
 Something i also found [helpful](http://idratherbewriting.com/documentation-theme-jekyll/)
 
-# things i thought about doing 
+# stuff i do in my chill time
+I usually cook and play games in my downtime. I'm guilty of bingewatching TV shows, some of them are
+Orphan Black, Homeland, Brooklyn Nine-Nine, Hannibal and Viking and so much more... 
 
-So i thought about adding something for a music player widget (maybe spotify or soundcloud), and some pictures and silly blog posts of some weird coding discoveries i've made/recreated (lol). 
-
-Let me know what you think! 
-
+Let's grab a coffee?
 email: rosalinda.prom@gmail.com
 
 linkedin: [Rosalinda Prom](http://www.linkedin.com/in/rosalinda-prom-15508a85?trk=nav_responsive_tab_profile_pic)
 
-twitter: [@developerpeachy](https://twitter.com/developerpeachy)
+insta: [@developerpeachy](https:ww.instagram.com/developerpeachy/)
+
     
     
 
