@@ -6,16 +6,16 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # main text of home
-name: Developer Peachy
+name: Rosalie Prom
 bio: Digital nomad, student and music enthusiast.
 
 # twitter summary info
-description: A blog about technology and stuff related
+description: A blog about technology and stuff related.
 
 # if it's an external image, update below for true
 # better with square images
 external-image: true
-picture: https://avatars1.githubusercontent.com/u/13824586?s=460&v=4
+picture: https://pbs.twimg.com/profile_images/928246958128377856/WnbU7Zyj_400x400.jpg
 
 # If you want to include your resume, set to true
 # and specify source (external or local).
@@ -61,10 +61,10 @@ email: rosalinda.prom@gmail.com
 
 authors:
     rosalieprom:
-        name: Rosalie Prom
+        name: developerpeachy
         bio: Digital nomad, student and music enthusiast.
         external-image: true
-        picture: https://avatars1.githubusercontent.com/u/13824586?s=460&v=4
+        picture: https://pbs.twimg.com/profile_images/928246958128377856/WnbU7Zyj_400x400.jpg
         twitter: developerpeachy
         
 # do you want a larger site? change the option below

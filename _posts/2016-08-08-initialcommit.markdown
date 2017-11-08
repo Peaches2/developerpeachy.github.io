@@ -9,4 +9,4 @@ Hello everyone! this is my very first commit to GitHub! This is my very first ti
 [jekyll-docs]: http://jekyllrb.com/docs/home
 [jekyll-gh]:   https://github.com/jekyll/jekyll
 [jekyll-talk]: https://talk.jekyllrb.com/
-[PeachysGithub]: https://github.com/Peaches2
+[PeachysGithub]: https://github.com/developerpeachy
