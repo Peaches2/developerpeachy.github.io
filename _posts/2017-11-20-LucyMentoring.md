@@ -2,8 +2,7 @@
 title: My Lucy Mentoring Experience
 layout: post
 date: 2017-11-19 18:00
-headerImage: false
-image: https://scontent-syd2-1.xx.fbcdn.net/v/t1.0-9/22489808_1609857449072376_7375126446026290240_n.jpg?oh=56b3aa5a818e0544562ff6e5d24fd7b3&oe=5A8E0383
+image: http://localhost:4000/assets/images/LucyMentoringspeech.jpg
 tag:
 - Personal development
 - Lucy mentoring program
@@ -27,7 +26,10 @@ Meeting with my mentor helped me define these goals and made my plans on how to 
 
 While I was a lucy mentee at Cisco, Kiran had shown initiative by inviting me to a weekly meeting called Cisco Mentor Me. This event was another mentoring program set aside for us that taught us how to gain confidence in the interview process, build up a portfolio and how to learn more about the tech world. 
 
-So, how did I achieve my goals? 
+![Speech](https://scontent-syd2-1.xx.fbcdn.net/v/t1.0-9/22489808_1609857449072376_7375126446026290240_n.jpg?oh=56b3aa5a818e0544562ff6e5d24fd7b3&oe=5A8E0383)
+<figcaption class="caption">Speech at Graduation Ceremony</figcaption>
+
+## So, how did I achieve my goals? 
 
 When I was initially job hunting, I had thought my resume was the best. Shown it to my mentor who had made a balanced approach and quizzed me on my skills. I knew then that my resume was too vague, and it was filled with unnecessary things. With the help of my mentor, I was able to clean up my resume and interview skills.
 
