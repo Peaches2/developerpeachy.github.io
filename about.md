@@ -5,7 +5,7 @@ layout: page
 ![Profile Image]({{ site.picture }})
 
 <p>
-	I'm Rosie, an aspiring web and software developer based in Sydney Australia. That is, I code websites and apps and aim to make them look fantastic, functional and usable across all platforms of media. I currently work as a junior developer at Digiground for about five months, where my role is to develop hybrid apps for existing clients and manage our codebase. I enjoy coding hybrid apps because it is a straightforward and fast way to make mobile apps to work on both significant mobile platforms. 
+	I'm Rosie, an aspiring web and software developer based in Sydney Australia. That is, I code websites and apps and aim to make them look fantastic, functional and usable across all platforms of media. I enjoy front-end development although my ultimate goal in my career is to be a full stack developer and/or be a project manager.  I also have a strong interest in UI/UX development.
 </p>
 
 <p> 
@@ -13,7 +13,7 @@ layout: page
 </p>
 
 <p> 
-	In my spare time I play online video games, go hiking or cook with my family. I enjoy long, romatic walks to the fridge and listening to music. If I had friends who had to describe me in three short words it would be: kind, happy and smart.
+	In my spare time I play online video games, go hiking or cook with my family. I enjoy long, romatic walks to the fridge and listening to music. If I had friends who had to describe me in three short words it would be: kind, happy and smart. Projects listed below are still 'in progress', that is, I am still iterating and they are in development.
 </p>
 
 <ul class="skill-list">
@@ -29,11 +29,10 @@ layout: page
 	<li>Ionic application development</li>
 	<li>Task management, documentations</li>
 </ul>
-<!-- 
+
 <h2>Projects</h2>
 
 <ul>
-	<li><a href="https://github.com/">Lorem Lorem</a></li>
-	<li><a href="https://github.com/">Ipsum Dolor</a></li>
-	<li><a href="https://github.com/">Dolor Lorem</a></li>
-</ul> -->
+	<li><a href="https://github.com/developerpeachy/RealPlanets">Real Planets</a></li>
+	<li><a href="https://github.com/developerpeachy/Peachy-App">Peachy App</a></li>
+</ul>

@@ -1,6 +1,9 @@
 # developerpeachy.github.io
 GitHub page for my github, developerpeachy :peach: 
 
+- Clone and download all packages
+- Run this command: `bundle exec jekyll serve --config _config.yml,_config-dev.yml`
+
 # Sources:
 
 Jekyll [webpage](https://jekyllrb.com/):  
