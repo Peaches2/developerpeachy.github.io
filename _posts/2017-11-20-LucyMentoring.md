@@ -1,9 +1,9 @@
 ---
-title: "Lucy Mentoring - Is it worth it?"
+title: My Lucy Mentoring Experience
 layout: post
-date: 2017-11-20 18:00
-image: https://scontent-syd2-1.xx.fbcdn.net/v/t1.0-9/22489808_1609857449072376_7375126446026290240_n.jpg?oh=56b3aa5a818e0544562ff6e5d24fd7b3&oe=5A8E0383
+date: 2017-11-19 18:00
 headerImage: false
+image: https://scontent-syd2-1.xx.fbcdn.net/v/t1.0-9/22489808_1609857449072376_7375126446026290240_n.jpg?oh=56b3aa5a818e0544562ff6e5d24fd7b3&oe=5A8E0383
 tag:
 - Personal development
 - Lucy mentoring program
@@ -26,9 +26,6 @@ This year, 2017, I was chosen to volunteer my time to be a lucy mentee and was p
 Meeting with my mentor helped me define these goals and made my plans on how to achieve them. It was interesting how these goals have had little objectives in them, and creating a plan helped heaps. We had one to one mentoring sessions as frequently as we could. 
 
 While I was a lucy mentee at Cisco, Kiran had shown initiative by inviting me to a weekly meeting called Cisco Mentor Me. This event was another mentoring program set aside for us that taught us how to gain confidence in the interview process, build up a portfolio and how to learn more about the tech world. 
-
-![Markdowm Image][/image/url]
-<figcaption class="caption">Me giving a speech at the graduation ceremony</figcaption>
 
 So, how did I achieve my goals? 
 
@@ -54,4 +51,4 @@ More tricks that can help you, if you're a student:
 * Do aim for high marks, don't stress over your scores too much that it puts you off extra-curricular activities. 
 * Employees like to see you have a life, so do join in activities and societies that are outside your timetable.  
 
-I would recommend this program to any student who is looking for new ways in the industry. For a student who is also seeking advice from industry experts, this is a great way to get started. 
+I would recommend this program to any student who is looking for new ways in the industry. For a student who is also seeking advice from industry experts, this is a great way to get started.
