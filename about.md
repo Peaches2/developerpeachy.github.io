@@ -16,6 +16,8 @@ layout: page
 	In my spare time I play online video games, go hiking or cook with my family. I enjoy long, romatic walks to the fridge and listening to music. If I had friends who had to describe me in three short words it would be: kind, happy and smart. Projects listed below are still 'in progress', that is, I am still iterating and they are in development.
 </p>
 
+<p> I got my theme <a href="https://github.com/sergiokopplin/indigo">here</a>.</p>
+
 <ul class="skill-list">
 	<li>HTML - Jade - Haml - Erb</li>
 	<li>Responsive (Mobile First)</li>
@@ -35,4 +37,5 @@ layout: page
 <ul>
 	<li><a href="https://github.com/developerpeachy/RealPlanets">Real Planets</a></li>
 	<li><a href="https://github.com/developerpeachy/Peachy-App">Peachy App</a></li>
+	<li><a href="https://github.com/developerpeachy/Splitr">Splitr</a></li>
 </ul>
