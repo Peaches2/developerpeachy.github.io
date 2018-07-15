@@ -7,6 +7,8 @@ GitHub page for my github, developerpeachy :peach:
 # Sources:
 
 Jekyll [webpage](https://jekyllrb.com/):  
+I got my theme [webpage]("https://github.com/sergiokopplin/indigo").
+
 
 # Contact me
 email: rosalinda.prom@gmail.com

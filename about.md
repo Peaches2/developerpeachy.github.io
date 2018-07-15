@@ -9,7 +9,11 @@ layout: page
 </p>
 
 <p> 
-	I am also a SPROUT at UTS where my role is to encourage prospecting students to apply at UTS and to pursue STEM subjects in school. I have spent the last two years at UTS, studying a bit of engineering and software development, and before that, I have begun my coding journey through TAFE. I am also an active member of the Women in Engineering and IT group where my goals are to encourage and uplift women in the STEM industry and to learn from one another. I often attend meetups in Sydney in the spare time that I can find, some meetups that you could find me at are SydJS, NgSydney, codelikeagirl and NodeGirls. 
+	My passion for education and technology erised from becoming a fellow SPROUT at UTS where my role is to encourage prospecting students to apply at UTS and to pursue STEM subjects in school. I have spent the last two years at UTS, studying a bit of engineering and software development, and before that, I have begun my coding journey through TAFE. I am also an active member of the Women in Engineering and IT group where my goals are to encourage and uplift women in the STEM industry. 
+</p>
+
+<p> 
+	At this present day, I am currently working on a range of data visualisation projects for big data research. Through the various Mixed Reality modes that we are able to experience immersive interactions, I develop a way of which we are able to visualise big data and analyse it in many different ways. Some research areas that I've been working on are Blockchain data and Weather data.
 </p>
 
 <p> 
@@ -21,15 +25,17 @@ layout: page
 <ul class="skill-list">
 	<li>HTML - Jade - Haml - Erb</li>
 	<li>Responsive (Mobile First)</li>
-	<li>CSS (Sass, Less)</li>
-	<li>Css Frameworks (Bootstrap)</li>
+	<li>CSS</li>
+	<li>Unity3D</li>
 	<li>Javascript</li>
 	<li>NodeJS</li>
 	<li>Angular</li>
 	<li>Typescript</li>
 	<li>Git</li>
-	<li>Ionic application development</li>
+	<li>Ionic Framework</li>
 	<li>Task management, documentations</li>
+	<li>C Sharp</li>
+	<li>Virtual Reality, Augmented Reality and Mixed Reality</li>
 </ul>
 
 <h2>Projects</h2>
