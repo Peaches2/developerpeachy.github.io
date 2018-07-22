@@ -5,7 +5,7 @@ layout: page
 ![Profile Image]({{ site.picture }})
 
 <p>
-	I'm Rosie, an aspiring web and software developer based in Sydney Australia. That is, I code websites and apps and aim to make them look fantastic, functional and usable across all platforms of media. I enjoy front-end development although my ultimate goal in my career is to be a full stack developer and/or be a project manager.  I also have a strong interest in UI/UX development.
+	I'm Rosie, an aspiring web and software developer based in Sydney Australia. That is, I code websites and apps and aim to make them look fantastic, functional and usable across all platforms of media. I enjoy front-end development although my ultimate goal in my career is to be a full stack developer and/or be a project manager.  I also have a strong interest in UI/UX design.
 </p>
 
 <p> 

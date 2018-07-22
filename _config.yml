@@ -1,27 +1,27 @@
-name: Rosalie Prom
-bio: Coder, creative & innovator.
+name: Rosalinda Prom
+bio: 'Coder, creative & innovator.'
 description: Rosie's website.
 external-image: true
 picture: 'https://pbs.twimg.com/profile_images/928246958128377856/WnbU7Zyj_400x400.jpg'
 resume: true
 resume-external: true
 resume-url: >-
-  https://drive.google.com/file/d/11xVdWogFHwxP7VT3qFctHjTf8njcrz8y/view?usp=sharing
+  https://drive.google.com/file/d/1DZRsjQXU-9KRX_UmVgldUBa2JhnJKYcd/view?usp=sharing
 url: 'http://developerpeachy.github.io'
 permalink: '/:title/'
 twitter: developerpeachy
 instagram: developerpeachy
 linkedin: rosalinda-prom-15508a85
-spotify: rosalieprom
+spotify: 1271090101?si=AYQYwRkFTF-4clAGpZZrfQ
 github: developerpeachy
 email: rosalinda.prom@gmail.com
 authors:
   rosalieprom:
-    name: developerpeachy
+    name: Rosalinda Prom
     bio: 'Coder, creative & innovator.'
     external-image: 'true'
     picture: >-
-      https://pbs.twimg.com/profile_images/928246958128377856/WnbU7Zyj_400x400.jpg
+      'https://pbs.twimg.com/profile_images/928246958128377856/WnbU7Zyj_400x400.jpg'
     twitter: developerpeachy
 width: normal
 about: true
