@@ -34,8 +34,6 @@ Through the positive influence of my friends at uni, I was able to study in a gr
 
 Although I wished that I’ve done this more, I was able to speak about my mentoring experience through the Lucy Mentoring program and through outreach visits to schools. My ultimate goal of being a sprout was to give back to my high school of which I finished my HSC from. I was able to do just that and to this day, I still would actually go back despite hating high school so much! 
 
-![My speech]({{ "/assets/public_speaking.jpg" | absolute_url }})
-
 ### 5. STEM activities 
 
 Being a part of the SPROUTS team, I was given the opportunity to share my learning experiences with programming, problem solving and resiliance. By facilitating STEM related activities for high schoolers as a part of the UTS' outreach program. I didn't make any classes. but I found this a way for me to reconnect with society, giving back to the community and encouraging more young females to pursue a career in STEM. 
@@ -79,8 +77,6 @@ As a part of my role as a SPROUT I was fortunate enough to be a part of some inf
 ### 13. Design
 
 I initially was into coding and saw the aptitude to become a full stack developer. My mind switched when I have had a conversation with an experienced developer and he asked me all of these probing questions about my interest to be a full stack developer. He asked why I specifically want to get into front-end development and after going into a rabbit hole conversation, he suggested me to look into design and code. It didn't really occur to me that there was such a thing as creative coding and so, I have done a huge favour for myself: I changed my major from Enterprise Systems Development to Interaction Design. And to this day I don't regret my choice. My GPA dropped because I was failing some of the subjects from Enterprise Development major, but I'm hoping to see (and I have already seen) some improvement in my scores since I've changed my major. 
-
-![My sketch for a DAPP - Low fidelity and some brainstorming]({{ "/assets/low_fidelity.jpg" | absolute_url }})
 
 My mindset has now been focused on creative coding, data visualisation and user experience. I aim to be good at coding to meet the user expectations of the product, to become usable and friendlier. 
 
