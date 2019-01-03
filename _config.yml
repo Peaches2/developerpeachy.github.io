@@ -2,7 +2,7 @@ name: Rosalinda Prom
 bio: 'Coder, creative & innovator.'
 description: Rosie's website.
 external-image: true
-picture: 'https://pbs.twimg.com/profile_images/928246958128377856/WnbU7Zyj_400x400.jpg'
+picture:  /assets/selfie.jpg
 resume: true
 resume-external: true
 resume-url: /assets/RosalindaProm_CV_2019.pdf
